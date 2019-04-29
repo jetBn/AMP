@@ -19,7 +19,7 @@
 
 ![img](https://www.ampproject.org/static/img/docs/platforms_accessing_cache.png)
 
-##AMP相关结构
+##AMP 相关结构
 
 ``` 
 <!doctype html>
